@@ -21,15 +21,17 @@ def format_data(data):
     return data
 
 def find_parent(pid) :
-    sql = "SELECT comment FROM parent_reply WHERE comment_id = '{}' LIMIT 1" .format(pid)
-    c.execute(sql)
-    result = c.fetchone()
-    if result != None:
-        return result [0]
-    else : return False
-except  Exception as e:
+    try:
+
+        sql = "SELECT comment FROM parent_reply WHERE comment_id = '{}' LIMIT 1" .format(pid)
+        c.execute(sql)
+        result = c.fetchone()
+        if result != None:
+            return result [0]
+        else : return False
+    except  Exception as e:
     #print("find_parent", e)
-    return False
+        return False
 
 
 if __name__ == "__main__":
@@ -37,7 +39,7 @@ if __name__ == "__main__":
     row_counter = 0
     paired_row = 0
 
-    with open ("C:\Users\uiss-\Downloads\ {} /RC_{}".format(timeframe.split ('-')[0], timeframe) buffer=1000) as f:
+    with open ("C:/Users/uiss-/Downloads/{}/RC_{}".format(timeframe.split ('-')[0], timeframe), buffering=1000) as f:
         for row in f:
             row_counter += 1
             row=json.loads (row)
