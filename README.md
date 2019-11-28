@@ -12,3 +12,6 @@ What can Sam do ?
 Sam in the First part is a Virtual Mashine thats Capable of manny things.
 
 More Informations following later on
+
+
+for Technical Questions you can allways contact us via kontakt@gamerlounch.org
