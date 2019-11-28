@@ -1,3 +1,7 @@
+#All Rights Reserved
+#Anny Changes in this file is on you own risk
+
+
 import json
 import sqlite3
 from datetime import datetime
@@ -17,7 +21,7 @@ def create_table():
     comment TEXT, subreddit TEXT, unix INT, score INT )""")
 
 def format_data(data):
-    data = data.replace("\n"," newlinechar ") .replace("\r"," newlinechar ") .replace('"',"'")
+    data = data.replace("\n", " newlinechar ") .replace("\r", " newlinechar ") .replace('"', "'")
     return data
 
 def find_parent(pid) :

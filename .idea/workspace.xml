@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39f371ea-5de2-402a-ad68-0f2a95a9a9e5" name="Default Changelist" comment="" />
+    <list default="true" id="39f371ea-5de2-402a-ad68-0f2a95a9a9e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Plugins/database/chat_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/database/chat_database.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Plugins/database/chat_database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-314">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="102">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -53,15 +55,6 @@
               <folding>
                 <element signature="e#18#32#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Plugins/Voice Recognission/commandOS/sample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -126,8 +119,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/config/config.py" />
         <option value="$PROJECT_DIR$/Plugins/Voice Recognission/speech.py" />
         <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/Plugins/database/chat_database.py" />
         <option value="$PROJECT_DIR$/version.py" />
+        <option value="$PROJECT_DIR$/Plugins/database/chat_database.py" />
       </list>
     </option>
   </component>
@@ -162,14 +155,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\uiss-\PycharmProjects\SamOS" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\uiss-\PycharmProjects\SamOS" />
       <recent name="C:\Users\uiss-\PycharmProjects\SamOS\Plugins\Voice Recognission" />
       <recent name="C:\Users\uiss-\PycharmProjects\SamOS\Plugins" />
       <recent name="C:\Users\uiss-\.PyCharmCE2019.1\config\scratches\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uiss-\PycharmProjects\SamOS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,7 +327,7 @@
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32827735" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32936078" />
       <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3488624" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.28710726" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -455,10 +448,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Plugins/database/chat_database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-314">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
