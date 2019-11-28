@@ -55,7 +55,7 @@ def acceptable(data) :
         return False
     elif len(data) >1000:
         return False
-    elif data = '[deleted]' or data = '[removed]':
+    elif data == '[deleted]' or data = '[removed]':
         return False
     else:
         return True
