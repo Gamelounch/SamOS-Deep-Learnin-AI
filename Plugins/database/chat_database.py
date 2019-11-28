@@ -54,4 +54,3 @@ if __name__ == "__main__":
             subreddit = row['subreddit']
 
             parent_data = find_parent(parent_id)
-            
