@@ -28,6 +28,14 @@ def find_existing_score(pid):
         # print("find_parent", e)
         return False
 
+def sql_insert_replace_comment(commentid,parentid,parent,comment,subreddit,time,score)
+    try:
+        sql = """UPDATE parent_reply SET """
+
+    except Exception as e:
+        print('replace_comment' ,str(e))
+
+
 def create_table() :
     c.execute("""CREATE TABLE IF NOT EXIST parent_reply
     (parent_id TEXT PRIMARY KEY, comment_id TEXT UNIQUE, parent TEXT, comment TEXT, subreddit TEXT,
@@ -79,6 +87,15 @@ if __name__ == "__main__":
             parent_data = find_parent(parent_id)
 
             if score >= 2:
-                existing_comment_score = find_existing_score(parent_id)
-                if existing_comment_score :
-                    if score > existing_comment_score:
+                if acceptable(body):
+                    existing_comment_score = find_existing_score(parent_id)
+                    if existing_comment_score :
+                        if score > existing_comment_score:
+                            sql_insert_replace_comment(comment_id, parent_id, parent_data, body, subreddit, created_utc, score)
+                    else:
+                        if parent_data:
+                            ####
+                            sql_insert_has_parent(comment_id, parent_id, parent_data, body, subreddit, created_utc, score)
+                        else:
+                            ####
+                            sql_insert_no_parent(comment_id, parent_id, body, subreddit, created_utc, score)
