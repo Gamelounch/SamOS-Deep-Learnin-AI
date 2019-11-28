@@ -33,7 +33,7 @@ def find_parent(pid) :
         if result != None:
             return result [0]
         else : return False
-    except  Exception as e:
+    except Exception as e:
     #print("find_parent", e)
         return False
 
