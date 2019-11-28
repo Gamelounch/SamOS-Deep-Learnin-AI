@@ -59,7 +59,7 @@ def acceptable(data) :
         return False
     else:
         return True
-    
+
 
 if __name__ == "__main__":
     create_table()
