@@ -82,4 +82,3 @@ if __name__ == "__main__":
                 existing_comment_score = find_existing_score(parent_id)
                 if existing_comment_score :
                     if score > existing_comment_score:
-
