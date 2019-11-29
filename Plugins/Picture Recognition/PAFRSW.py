@@ -1,16 +1,12 @@
-import sklearn
-from sklearn import tree
-
-features = [[140, 1], [130, 1], [150, 0], [170, 0]]
-labels = [0, 0, 1, 1, ]
-
-clf = tree.DecisionTreeClassifier()
-clf = clf.fit(features, labels)
-print(clf.predict([[150, 0]]))
-
-
+import cv2
 import numpy as np
-input_vector = np.array([2, 4, 11])
-print(input_vector)
+import matplotlib.pyplot as plt
+#                                0
+img = cv2.imread('image.jpg',cv2.IMREAD_GRAYSCALE)
+#IMREAD_COLOR = 1
+#IMREAD_UNCHANGED = -1
 
-[2, 4, 11]
+cv2.imshow('image', img)
+cv2.waitkey(0)
+cv2.destroyallwindows()
+

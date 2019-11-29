@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f371ea-5de2-402a-ad68-0f2a95a9a9e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/database/chat_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/database/chat_database.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,14 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#0#6#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -48,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Plugins/database/chat_database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            <state relative-caret-position="544">
+              <caret line="32" column="163" selection-start-line="32" selection-start-column="163" selection-end-line="32" selection-end-column="163" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -57,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/version.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
+              <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -94,16 +92,16 @@
         <option value="$PROJECT_DIR$/Plugins/Voice Recognission/speech.py" />
         <option value="$PROJECT_DIR$/Plugins/Voice Recognission/commandOS/reflections.py" />
         <option value="$PROJECT_DIR$/logging.py" />
-        <option value="$PROJECT_DIR$/Plugins/database/chat_database.py" />
         <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py" />
         <option value="$PROJECT_DIR$/version.py" />
+        <option value="$PROJECT_DIR$/Plugins/database/chat_database.py" />
+        <option value="$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="366" />
-    <option name="y" value="147" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="669" />
+    <option name="y" value="88" />
     <option name="width" value="1400" />
     <option name="height" value="841" />
   </component>
@@ -124,6 +122,12 @@
               <item name="Classic" type="b2602c69:ProjectViewProjectNode" />
               <item name="Classic" type="462c0819:PsiDirectoryNode" />
               <item name="Plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Classic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Classic" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="Picture Recognition" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Classic" type="b2602c69:ProjectViewProjectNode" />
@@ -313,19 +317,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="669" y="88" width="1400" height="841" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49833333" visible="true" weight="0.20362474" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49833333" visible="true" weight="0.28507462" />
       <window_info id="Structure" order="2" sideWeight="0.50166667" side_tool="true" weight="0.19509594" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.4562147" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.59463274" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50074625" side_tool="true" weight="0.32768363" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49925372" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49925372" visible="true" weight="0.34777898" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49925372" visible="true" weight="0.34745762" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.28710726" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -455,16 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Plugins/database/chat_database.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -475,20 +469,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py">
+    <entry file="file://$PROJECT_DIR$/version.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugins/database/chat_database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="163" selection-start-line="32" selection-start-column="163" selection-end-line="32" selection-end-column="163" />
           <folding>
-            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/version.py">
+    <entry file="file://$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
