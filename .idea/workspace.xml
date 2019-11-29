@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f371ea-5de2-402a-ad68-0f2a95a9a9e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Plugins/database/2015-01" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +37,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,6 +56,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/RC_2015-01/RC_2015-01">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="294">
+              <caret line="2125" column="342" lean-forward="true" selection-start-line="2125" selection-start-column="342" selection-end-line="2125" selection-end-column="342" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Plugins/database/2015-01">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -101,9 +113,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="194" />
-    <option name="y" value="66" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="344" />
+    <option name="y" value="46" />
     <option name="width" value="1400" />
     <option name="height" value="841" />
   </component>
@@ -319,11 +331,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="181" y="15" width="1400" height="841" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49833333" visible="true" weight="0.20682302" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49833333" visible="true" weight="0.28955224" />
       <window_info id="Structure" order="2" sideWeight="0.50166667" side_tool="true" weight="0.19509594" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.59463274" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50074625" side_tool="true" weight="0.32768363" />
@@ -331,7 +343,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32909605" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49925372" visible="true" weight="0.2665222" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49925372" visible="true" weight="0.34745762" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.28710726" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -478,13 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Plugins/database/chat_database.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -494,6 +499,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Plugins/database/2015-01">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugins/Picture Recognition/PAFRSW.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RC_2015-01/RC_2015-01">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="294">
+          <caret line="2125" column="342" lean-forward="true" selection-start-line="2125" selection-start-column="342" selection-end-line="2125" selection-end-column="342" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
