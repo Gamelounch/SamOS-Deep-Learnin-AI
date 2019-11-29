@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f371ea-5de2-402a-ad68-0f2a95a9a9e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/database/ 2015-01.db" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/database/chat_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/database/chat_database.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Plugins/database/chat_database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="107">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#69#80#0" expanded="true" />
               </folding>
@@ -104,8 +102,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="299" />
-    <option name="y" value="258" />
+    <option name="x" value="657" />
+    <option name="y" value="301" />
     <option name="width" value="1400" />
     <option name="height" value="670" />
   </component>
@@ -321,7 +319,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="299" y="258" width="1400" height="670" extended-state="0" />
+    <frame x="657" y="301" width="1400" height="670" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49833333" visible="true" weight="0.28955224" />
@@ -504,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Plugins/database/chat_database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="107">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#69#80#0" expanded="true" />
           </folding>
