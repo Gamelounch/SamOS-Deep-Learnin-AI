@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Plugins/database/chat_database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="323">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="e#69#80#0" expanded="true" />
               </folding>
@@ -101,9 +101,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="657" />
-    <option name="y" value="301" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="565" />
+    <option name="y" value="674" />
     <option name="width" value="1400" />
     <option name="height" value="670" />
   </component>
@@ -319,10 +319,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="657" y="301" width="1400" height="670" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49833333" visible="true" weight="0.28955224" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49833333" visible="true" weight="0.20682302" />
       <window_info id="Structure" order="2" sideWeight="0.50166667" side_tool="true" weight="0.19509594" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.59463274" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50074625" side_tool="true" weight="0.32768363" />
@@ -330,7 +331,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32909605" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49925372" visible="true" weight="0.45810056" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49925372" visible="true" weight="0.2665222" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.28710726" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -502,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Plugins/database/chat_database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="323">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="e#69#80#0" expanded="true" />
           </folding>
